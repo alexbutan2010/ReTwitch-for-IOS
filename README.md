@@ -1,5 +1,5 @@
 
-# ReTwitch
+# ReTwitch(coming soon)
 
 ReTwitch is a custom Twitch client for iOS(coming soon), offering enhanced features, a smoother user experience, and additional tools to take your Twitch streaming and viewing experience to the next level.
 
