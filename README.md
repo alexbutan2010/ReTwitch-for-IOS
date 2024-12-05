@@ -67,6 +67,4 @@ License
 
 This project is licensed under the MIT License.
 
-Let me know if you’d like more details, such as screenshots or additional troubleshooting tips!
-
 # Made in Romania
