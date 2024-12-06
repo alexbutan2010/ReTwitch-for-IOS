@@ -1,25 +1,25 @@
 
-# ReTwitch(coming soon)
+# ReTwitch(coming soon,Alpha expected in January)
 
 ReTwitch is a custom Twitch client for iOS(coming soon), offering enhanced features, a smoother user experience, and additional tools to take your Twitch streaming and viewing experience to the next level.
 
 Features
 
-	•	Ad-Free Viewing: No more interruptions while watching your favorite streams.
-	•	Customizable Themes: Light, dark, or fully customizable themes to match your style.
-	•	Advanced Chat Options:
-	•	Custom emote support.
-	•	Moderation tools and chat filters.
-	•	Notification Enhancements: Never miss a stream with smarter notifications.
-	•	Optimized Performance: Smooth and lightweight, designed specifically for iOS.
+	•	Ad-Free Viewing: No more interruptions while watching your favorite streams(0%).
+	•	Customizable Themes: Light, dark, or fully customizable Layout to match your style(25%).
+	•	Advanced Chat Options(0%).
+	•	Custom emote support(0%).
+	•	Moderation tools and chat filters(0%).
+	•	Notification Enhancements: Never miss a stream with smarter notifications(10%).
+	•	Optimized Performance: Smooth and lightweight, designed specifically for iOS(60%).
 
-# Installation Guide
+# Installation Guide(wen relesed)
 
 To install ReTwitch on your iOS device, you’ll need to sideload the .ipa file using AltStore or Sideloadly. Follow the steps below.
 
 # Prerequisites
 
-	•	An iPhone or iPad running iOS 14 or later.
+	•	An iPhone or iPad running iOS 16 or later.
 	•	A macOS or Windows computer.
 	•	Apple ID (free or paid developer account).
 	•	One of the following tools installed:
